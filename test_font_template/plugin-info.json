@@ -1,0 +1,6 @@
+{
+    "display_name": "test_font_template Plugin",
+    "id": "test_font_template",
+    "class": "test_font_template",
+    "repository": "https://github.com/fatihak/InkyPi-Plugin-Template"
+}
